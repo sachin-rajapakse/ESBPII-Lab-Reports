@@ -6,4 +6,8 @@
 > 2. Creating an Amazon RDS Database
 > 3. Installation of ESXi 5 (VMware Hypervisor Installation) 
 > 4. Creating a Virtual Machine on the Hypervisor
-> 5. VMware vMotion
+> 5. Business Case
+> 6. ISO27k Asset Register
+> 7. VMware vMotion
+> 8. ISO27k SOA
+> 9. ISO27k RA
